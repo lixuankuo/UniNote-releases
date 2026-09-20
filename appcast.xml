@@ -4,6 +4,21 @@
     <title>UniNote 法學筆記</title>
     <link>https://github.com/lixuankuo/UniNote-releases</link>
     <item>
+      <title>UniNote 0.3.0</title>
+      <pubDate>Sun, 20 Sep 2026 19:54:09 +0800</pubDate>
+      <sparkle:version>5</sparkle:version>
+      <sparkle:shortVersionString>0.3.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h2>UniNote 0.3.0</h2>
+<ul>
+<li><b>手動新增課程</b>：「課程」頁可自己新增、編輯、刪除課程，不必先在 UniCalendar 加。UniCalendar 的課刪掉只是不顯示，課表上可以再帶回來，筆記本會先放在「未歸類」。</li>
+<li><b>AI 對話可以上網搜尋</b>：查判決、函釋、期刊或新聞，引用的資料依 APA 第七版附上來源。設定 › AI 可關閉。</li>
+<li><b>AI 回覆排版</b>：標題、清單、表格、程式碼區塊都照 Markdown 顯示，複習重點也一樣。</li>
+<li><b>歷史對話自動命名</b>：第一輪問答結束後由 AI 取名稱，不再是一整句問句。</li>
+</ul>]]></description>
+      <enclosure url="https://github.com/lixuankuo/UniNote-releases/releases/download/v0.3.0/UniNote-0.3.0.dmg" sparkle:edSignature="ADiml2izxZw+v+wwBpCuRGHmWPTAuj+KU3CN0tkOqpoTcHxgvsgiRKi1Iig9pKfofOn63wF+/jxhhz9cTz9kDQ==" length="5901425" type="application/octet-stream"/>
+    </item>
+<item>
       <title>UniNote 0.2.1</title>
       <pubDate>Sun, 20 Sep 2026 18:59:36 +0800</pubDate>
       <sparkle:version>4</sparkle:version>
