@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>UniNote 法學筆記</title>
+    <link>https://github.com/lixuankuo/UniNote-releases</link>
+    <item>
+      <title>UniNote 0.2.0</title>
+      <pubDate>Sun, 20 Sep 2026 18:58:31 +0800</pubDate>
+      <sparkle:version>3</sparkle:version>
+      <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h2>UniNote 0.2.0</h2>
+<ul>
+  <li>加入自動更新：之後有新版本 App 會自己提示，一鍵安裝。</li>
+  <li>「UniNote ▸ 檢查更新…」可手動檢查；設定 ▸ AI 分頁最下方可關閉自動檢查。</li>
+</ul>]]></description>
+      <enclosure url="https://github.com/lixuankuo/UniNote-releases/releases/download/v0.2.0/UniNote-0.2.0.dmg" sparkle:edSignature="l4IV/mCR+9a9zaz5BGh/GX95A+/i4EUadVzzlOcJPOyQYD6PglYHEtmAvGDUmYEVToLMxGf6xJH8sM21KkAfDg==" length="5689538" type="application/octet-stream"/>
+    </item>
+  </channel>
+</rss>
