@@ -4,6 +4,20 @@
     <title>UniNote 法學筆記</title>
     <link>https://github.com/lixuankuo/UniNote-releases</link>
     <item>
+      <title>UniNote 0.3.3</title>
+      <pubDate>Mon, 21 Sep 2026 18:04:34 +0800</pubDate>
+      <sparkle:version>8</sparkle:version>
+      <sparkle:shortVersionString>0.3.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h2>UniNote 0.3.3</h2>
+<ul>
+<li>講義記住閱讀位置：切模式、切分頁、關掉再開都接著上次讀到的地方</li>
+<li>選取工具列加橡皮擦：選到已畫線處可整條清除螢光筆</li>
+<li>AI 對話與 ⌘K 加 Claude 用量按鈕（5 小時／每週，點開才顯示）</li>
+</ul>]]></description>
+      <enclosure url="https://github.com/lixuankuo/UniNote-releases/releases/download/v0.3.3/UniNote-0.3.3.dmg" sparkle:edSignature="xE2Oi8fdnYllu0VO1wuksY/d1Fvb9dti+A2zSse23XycXsxQm7vjA/660fA8WNjdi6UDx3w6AzwCLLuDQBNRDw==" length="6032977" type="application/octet-stream"/>
+    </item>
+<item>
       <title>UniNote 0.3.2</title>
       <pubDate>Mon, 21 Sep 2026 13:44:54 +0800</pubDate>
       <sparkle:version>7</sparkle:version>
