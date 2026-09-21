@@ -4,6 +4,19 @@
     <title>UniNote 法學筆記</title>
     <link>https://github.com/lixuankuo/UniNote-releases</link>
     <item>
+      <title>UniNote 0.3.4</title>
+      <pubDate>Mon, 21 Sep 2026 23:39:26 +0800</pubDate>
+      <sparkle:version>9</sparkle:version>
+      <sparkle:shortVersionString>0.3.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h2>UniNote 0.3.4</h2>
+<ul>
+<li>筆記樹狀圖折行時，分支文字與直線對齊更正確</li>
+<li>AI 引用的原文片段允許巢狀「」與較長句子，不會再整段標記失效</li>
+</ul>]]></description>
+      <enclosure url="https://github.com/lixuankuo/UniNote-releases/releases/download/v0.3.4/UniNote-0.3.4.dmg" sparkle:edSignature="p741qssv/V4nWo/vk4+wups9XTUHX+gXgQUZJDfBUVBdt1kNRCUnQ7G3Pl95Vu3U+eK6/RZGHq4s7cM0GML4Cg==" length="6033864" type="application/octet-stream"/>
+    </item>
+<item>
       <title>UniNote 0.3.3</title>
       <pubDate>Mon, 21 Sep 2026 18:04:34 +0800</pubDate>
       <sparkle:version>8</sparkle:version>
