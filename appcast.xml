@@ -4,6 +4,20 @@
     <title>UniNote 法學筆記</title>
     <link>https://github.com/lixuankuo/UniNote-releases</link>
     <item>
+      <title>UniNote 0.3.1</title>
+      <pubDate>Mon, 21 Sep 2026 08:44:08 +0800</pubDate>
+      <sparkle:version>6</sparkle:version>
+      <sparkle:shortVersionString>0.3.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h2>UniNote 0.3.1</h2>
+<ul>
+<li>AI 對話字級可用 ⌘+ / ⌘− / ⌘0 調整</li>
+<li>右側面板（AI 對話／錄音／標註）可拉到接近整個內容區寬度</li>
+<li>修正 AI 對話中 Markdown 表格排版：欄位等寬，不再超出面板</li>
+</ul>]]></description>
+      <enclosure url="https://github.com/lixuankuo/UniNote-releases/releases/download/v0.3.1/UniNote-0.3.1.dmg" sparkle:edSignature="0B3b0ZN+/F2Rd8AQ4rIamVp7oaC/3AA6VRmLXDV3ZCYzptnNTBbm2OtVGSX2F5ffmE+3AJcTxV0hThneLZuBBw==" length="5906523" type="application/octet-stream"/>
+    </item>
+<item>
       <title>UniNote 0.3.0</title>
       <pubDate>Sun, 20 Sep 2026 19:54:09 +0800</pubDate>
       <sparkle:version>5</sparkle:version>
