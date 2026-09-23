@@ -4,6 +4,19 @@
     <title>UniNote 法學筆記</title>
     <link>https://github.com/lixuankuo/UniNote-releases</link>
     <item>
+      <title>UniNote 0.3.5</title>
+      <pubDate>Wed, 23 Sep 2026 08:49:09 +0800</pubDate>
+      <sparkle:version>10</sparkle:version>
+      <sparkle:shortVersionString>0.3.5</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h2>UniNote 0.3.5</h2>
+<ul>
+<li>錄音邊錄邊存：程式當掉、被強制結束或電腦關機，最多只會遺失不到兩分鐘的錄音（暫停中完全不會遺失），下次開啟 UniNote 會自動把錄到的內容接回去</li>
+<li>修正側欄（錄音面板、右側面板）收合時的滑出動畫與分隔線跳動</li>
+</ul>]]></description>
+      <enclosure url="https://github.com/lixuankuo/UniNote-releases/releases/download/v0.3.5/UniNote-0.3.5.dmg" sparkle:edSignature="UD3Rxzzehu7CmnSK3fQlUTPm4imUKGP0Vrv4ZxV9+i+c+ATBZUHgCa+0cy7B79td1HRPMnTJDw/epk9j6XXLBA==" length="6090540" type="application/octet-stream"/>
+    </item>
+<item>
       <title>UniNote 0.3.4</title>
       <pubDate>Mon, 21 Sep 2026 23:39:26 +0800</pubDate>
       <sparkle:version>9</sparkle:version>
