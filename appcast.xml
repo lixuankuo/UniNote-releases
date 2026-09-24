@@ -4,6 +4,23 @@
     <title>UniNote 法學筆記</title>
     <link>https://github.com/lixuankuo/UniNote-releases</link>
     <item>
+      <title>UniNote 0.3.7</title>
+      <pubDate>Thu, 24 Sep 2026 23:17:16 +0800</pubDate>
+      <sparkle:version>12</sparkle:version>
+      <sparkle:shortVersionString>0.3.7</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h2>UniNote 0.3.7</h2>
+<ul>
+<li>康乃爾線索欄改成「AI 整理筆記」：可把筆記配合講義與螢光筆整理成大綱、爭點表、判決整理或構成要件檢查，結果接在筆記最後</li>
+<li>AI 對話可以把問答重點寫進筆記，或修正筆記裡的錯誤：先顯示修改預覽，按「套用」才寫入，套用後也能復原</li>
+<li>筆記裡的〔講義 p.x「原文」〕、〔錄音 mm:ss〕標記可以直接點，跳回講義或錄音的位置</li>
+<li>AI 對話現在能讀到更長的筆記（上限提高到 20000 字）</li>
+<li>格式工具列新增橫向分隔線</li>
+<li>移除專注模式</li>
+</ul>]]></description>
+      <enclosure url="https://github.com/lixuankuo/UniNote-releases/releases/download/v0.3.7/UniNote-0.3.7.dmg" sparkle:edSignature="biXWyd4cW/eXLdp/5w2Clq9CJvHNbO2roaBeHUgL9XMOYf2nozcpTyCPlKWBv/RfOZ1UtlUfZqjKKeYLl+MuDw==" length="6060332" type="application/octet-stream"/>
+    </item>
+<item>
       <title>UniNote 0.3.6</title>
       <pubDate>Thu, 24 Sep 2026 11:54:56 +0800</pubDate>
       <sparkle:version>11</sparkle:version>
