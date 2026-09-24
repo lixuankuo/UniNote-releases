@@ -4,6 +4,22 @@
     <title>UniNote 法學筆記</title>
     <link>https://github.com/lixuankuo/UniNote-releases</link>
     <item>
+      <title>UniNote 0.3.6</title>
+      <pubDate>Thu, 24 Sep 2026 11:54:56 +0800</pubDate>
+      <sparkle:version>11</sparkle:version>
+      <sparkle:shortVersionString>0.3.6</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h2>UniNote 0.3.6</h2>
+<ul>
+<li>AI 對話更好用：不滿意可以直接重試、改自己的問題重新送出、從任何一則訊息開新分支繼續問，回覆途中也能停止；處理時會顯示「思考中」「搜尋講義」等狀態</li>
+<li>設定視窗新增「一般」分類，把資料位置與更新設定收在一起</li>
+<li>Claude 用量顯示不再超過 100%，達到上限時標示「已達上限」，過了重置時間顯示「已重置」</li>
+<li>修正錄音切換分段檔時麥克風會中斷的問題，接點不再有零點幾秒的斷點</li>
+<li>複習模式移除「我的筆記」區塊，版面更聚焦在重點與複習卡</li>
+</ul>]]></description>
+      <enclosure url="https://github.com/lixuankuo/UniNote-releases/releases/download/v0.3.6/UniNote-0.3.6.dmg" sparkle:edSignature="RUcDtJMwtcyvuYAjwgtWLWZStzSjkypgz4JE481VXv9r4f8q6rSe9METsa9veepWnggiP5feaXyt7L3AEuANAQ==" length="6077402" type="application/octet-stream"/>
+    </item>
+<item>
       <title>UniNote 0.3.5</title>
       <pubDate>Wed, 23 Sep 2026 08:49:09 +0800</pubDate>
       <sparkle:version>10</sparkle:version>
