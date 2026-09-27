@@ -4,6 +4,21 @@
     <title>UniNote 法學筆記</title>
     <link>https://github.com/lixuankuo/UniNote-releases</link>
     <item>
+      <title>UniNote 0.3.8</title>
+      <pubDate>Sun, 27 Sep 2026 15:49:21 +0800</pubDate>
+      <sparkle:version>13</sparkle:version>
+      <sparkle:shortVersionString>0.3.8</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h2>UniNote 0.3.8</h2>
+<ul>
+<li>新增「用 ChatGPT 登入」：選 GPT 模型時用量計入 ChatGPT 付費方案，AI 對話用量按鈕跟著目前對話模型切換顯示</li>
+<li>AI 對話面板右上角加一鍵放大按鈕，歷史對話與新對話按鈕互換位置，操作更順手</li>
+<li>修正 AI 引用標記：標記前的文字現在會自成完整句子，不再把句意藏進隱藏的原文片段</li>
+<li>快捷鍵調整：筆記欄改為 ⌘N（取代新增筆記），法典改為 ⌘L</li>
+</ul>]]></description>
+      <enclosure url="https://github.com/lixuankuo/UniNote-releases/releases/download/v0.3.8/UniNote-0.3.8.dmg" sparkle:edSignature="K+poW0Vxtv7mAmgXXXY2E9tC8YkDFWLpeg95cybF8sTia2h96Y78c7jOeCnIbA8boUsu5UblQ2I6kwyPmjHYBw==" length="6167559" type="application/octet-stream"/>
+    </item>
+<item>
       <title>UniNote 0.3.7</title>
       <pubDate>Thu, 24 Sep 2026 23:17:16 +0800</pubDate>
       <sparkle:version>12</sparkle:version>
