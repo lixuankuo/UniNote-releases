@@ -4,6 +4,21 @@
     <title>UniNote 法學筆記</title>
     <link>https://github.com/lixuankuo/UniNote-releases</link>
     <item>
+      <title>UniNote 0.4.1</title>
+      <pubDate>Fri, 02 Oct 2026 15:50:45 +0800</pubDate>
+      <sparkle:version>17</sparkle:version>
+      <sparkle:shortVersionString>0.4.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h2>UniNote 0.4.1</h2>
+<ul>
+  <li>AI 回答現在只依據講義、法典或網路搜尋結果，不會憑記憶臆測法條、判決或學說；使用網路資料時會依 APA 第七版標示來源。</li>
+  <li>修正在講義上按 ⌘Z 可能閃退的問題，螢光筆與橡皮擦現在都能穩定復原與重做。</li>
+  <li>修正切換筆記後復原紀錄可能帶入上一本筆記內容的問題。</li>
+  <li>程式異常中斷後接回的錄音，會自動補做逐字稿。</li>
+</ul>]]></description>
+      <enclosure url="https://github.com/lixuankuo/UniNote-releases/releases/download/v0.4.1/UniNote-0.4.1.dmg" sparkle:edSignature="qiknDvpr8T9x7/yzFjI5po/nTpQBrdTpejXxTu+gh6o7UCwiV0MmrxGsVV0O2goElDmCkT/QOiYLJbLj2Fj2CQ==" length="6369638" type="application/octet-stream"/>
+    </item>
+<item>
       <title>UniNote 0.4.0</title>
       <pubDate>Wed, 30 Sep 2026 01:06:57 +0800</pubDate>
       <sparkle:version>16</sparkle:version>
