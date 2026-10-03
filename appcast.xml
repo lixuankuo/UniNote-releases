@@ -4,6 +4,19 @@
     <title>UniNote 法學筆記</title>
     <link>https://github.com/lixuankuo/UniNote-releases</link>
     <item>
+      <title>UniNote 0.4.2</title>
+      <pubDate>Sun, 04 Oct 2026 00:38:07 +0800</pubDate>
+      <sparkle:version>18</sparkle:version>
+      <sparkle:shortVersionString>0.4.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h2>UniNote 0.4.2</h2>
+<ul>
+  <li>AI 用量最佳化：AI 對話接續 Claude Code 的對話時會讀取快取，ChatGPT 使用固定快取 key，連續提問更省用量。</li>
+  <li>移除 Anthropic API key 設定。</li>
+</ul>]]></description>
+      <enclosure url="https://github.com/lixuankuo/UniNote-releases/releases/download/v0.4.2/UniNote-0.4.2.zip" sparkle:edSignature="GV7iguAMvI+Q4el9+p77wrJvU7POE1b5bXCrWWca0t/vA8Y4q7BqxUMG4bxoG2IxtzMJZsrRv2Dv/jyHTDnTCA==" length="6075958" type="application/octet-stream"/>
+    </item>
+<item>
       <title>UniNote 0.4.1</title>
       <pubDate>Fri, 02 Oct 2026 15:50:45 +0800</pubDate>
       <sparkle:version>17</sparkle:version>
