@@ -4,6 +4,16 @@
     <title>UniNote 法學筆記</title>
     <link>https://github.com/lixuankuo/UniNote-releases</link>
     <item>
+      <title>UniNote 0.4.3</title>
+      <pubDate>Tue, 06 Oct 2026 12:40:31 +0800</pubDate>
+      <sparkle:version>19</sparkle:version>
+      <sparkle:shortVersionString>0.4.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h2>UniNote 0.4.3</h2>
+<ul><li>修正 AI 對話中，中文標點後的粗體不顯示的問題</li><li>筆記本右上角的法典、筆記按鈕改為文字顯示</li><li>ChatGPT 模型同系列只保留最新版，出新版後自動移除舊版並更新設定中儲存的模型</li></ul>]]></description>
+      <enclosure url="https://github.com/lixuankuo/UniNote-releases/releases/download/v0.4.3/UniNote-0.4.3.zip" sparkle:edSignature="+KGJJLHBqSnIzBmS5xqsm7ABOo0cgsOIFyryNVrI/oz/wzwB22nry7EPbkbPLURg8bjqxM/BKNNFPvraavdABg==" length="6079531" type="application/octet-stream"/>
+    </item>
+<item>
       <title>UniNote 0.4.2</title>
       <pubDate>Sun, 04 Oct 2026 00:38:07 +0800</pubDate>
       <sparkle:version>18</sparkle:version>
