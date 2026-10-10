@@ -4,6 +4,23 @@
     <title>UniNote 法學筆記</title>
     <link>https://github.com/lixuankuo/UniNote-releases</link>
     <item>
+      <title>UniNote 0.5.0</title>
+      <pubDate>Sat, 10 Oct 2026 21:25:42 +0800</pubDate>
+      <sparkle:version>20</sparkle:version>
+      <sparkle:shortVersionString>0.5.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h2>UniNote 0.5.0 — 本機課程與筆記大改版</h2>
+<ul>
+<li><strong>課程全面改為本機管理：</strong>無須登入即可新增、編輯與刪除課程，依分類分組並可複選上課星期。舊版雲端課程首次啟動時會轉存本機，保留課程與筆記、法典的關聯；轉換失敗可按 ⌘R 重試。</li>
+<li><strong>講義便利貼：</strong>新增隨講義移動的原文旁註與可拖曳大型便利貼，支援富文字與多張獨立括線分支圖，便利貼內容也納入 AI 整理及複習卡。</li>
+<li><strong>視覺分支與分隔線：</strong>筆記可插入並編輯同層或子分支，分隔線可刪除與復原。舊版樹狀文字與分隔線開啟時自動轉換，原始資料另行備份。</li>
+<li><strong>設定與詞彙表改版：</strong>調整設定介面、課程編輯與詞彙表操作，配合本機課程管理。</li>
+<li><strong>講義顯示修正：</strong>PowerPoint 與 Keynote 固定使用投影片顯示；排成 PDF 後可選取文字、劃線與問 AI。改善便利貼縮放、圖層、捲動及中文輸入排版。</li>
+</ul>
+<p>課程不再記錄學分、節次與地點，也不再同步 UniCalendar；舊雲端課表不會被修改。筆記、講義與錄音仍保存在這台 Mac。</p>]]></description>
+      <enclosure url="https://github.com/lixuankuo/UniNote-releases/releases/download/v0.5.0/UniNote-0.5.0.zip" sparkle:edSignature="p0HM4JGfcWge75I2SHibz8gFmzZ7W+I1ddh6mPjToI5LAe4CeaCzagEaCu7SsiuxLCQ0xEJ+pSMqEkrMv/JpCA==" length="6140164" type="application/octet-stream"/>
+    </item>
+<item>
       <title>UniNote 0.4.3</title>
       <pubDate>Tue, 06 Oct 2026 12:40:31 +0800</pubDate>
       <sparkle:version>19</sparkle:version>
