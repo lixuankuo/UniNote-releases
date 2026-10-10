@@ -4,6 +4,18 @@
     <title>UniNote 法學筆記</title>
     <link>https://github.com/lixuankuo/UniNote-releases</link>
     <item>
+      <title>UniNote 0.5.1</title>
+      <pubDate>Sat, 10 Oct 2026 21:44:38 +0800</pubDate>
+      <sparkle:version>21</sparkle:version>
+      <sparkle:shortVersionString>0.5.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h2>UniNote 0.5.1</h2>
+<ul>
+<li>修正講義選取工具列中「新增便利貼」圖示的顏色，使其與其他工具列按鈕一致並清楚可見。</li>
+</ul>]]></description>
+      <enclosure url="https://github.com/lixuankuo/UniNote-releases/releases/download/v0.5.1/UniNote-0.5.1.zip" sparkle:edSignature="2X+BiUMIWe+wydIGPpN4WAOwDM7GQIwBa/US94KklGfPVY+3lS+CoBOhAt5vPXeUFOOUxQ1eaX1OxCw0+7blDA==" length="6140234" type="application/octet-stream"/>
+    </item>
+<item>
       <title>UniNote 0.5.0</title>
       <pubDate>Sat, 10 Oct 2026 21:25:42 +0800</pubDate>
       <sparkle:version>20</sparkle:version>
