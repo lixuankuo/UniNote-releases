@@ -4,6 +4,20 @@
     <title>UniNote 法學筆記</title>
     <link>https://github.com/lixuankuo/UniNote-releases</link>
     <item>
+      <title>UniNote 0.6.1</title>
+      <pubDate>Sun, 11 Oct 2026 16:20:37 +0800</pubDate>
+      <sparkle:version>23</sparkle:version>
+      <sparkle:shortVersionString>0.6.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h2>UniNote 0.6.1</h2>
+<ul>
+<li>修正 Google Cloud API key 測試連線因模型別名而出現 HTTP 404 的問題。</li>
+<li>Google Cloud 每次測試或轉寫時自動查詢最新穩定版 Gemini Flash；若無模型清單權限，改查 Google 官方公開目錄。</li>
+<li>連線成功後顯示實際模型版本，同一段錄音保持使用同一版本。</li>
+</ul>]]></description>
+      <enclosure url="https://github.com/lixuankuo/UniNote-releases/releases/download/v0.6.1/UniNote-0.6.1.zip" sparkle:edSignature="WYQVbGLu5kKKOMn/bCyZ3RFGy4OXOXByVeXlqTdKAK9GbwviPqlsnkhDEDoOzVf3f8C4ZBrlix1e4k9Iq6mVBA==" length="6244324" type="application/octet-stream"/>
+    </item>
+<item>
       <title>UniNote 0.6.0</title>
       <pubDate>Sun, 11 Oct 2026 15:51:21 +0800</pubDate>
       <sparkle:version>22</sparkle:version>
