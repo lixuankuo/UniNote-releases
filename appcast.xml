@@ -4,6 +4,22 @@
     <title>UniNote 法學筆記</title>
     <link>https://github.com/lixuankuo/UniNote-releases</link>
     <item>
+      <title>UniNote 0.6.0</title>
+      <pubDate>Sun, 11 Oct 2026 15:51:21 +0800</pubDate>
+      <sparkle:version>22</sparkle:version>
+      <sparkle:shortVersionString>0.6.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h2>UniNote 0.6.0 — Gemini 轉寫與 AI 設定更新</h2>
+<ul>
+<li><strong>新增 Gemini 語音轉文字：</strong>可在 Apple 語音辨識、Google Vertex AI 與 AI Studio 之間選擇；Gemini 使用 Google 維護的最新 Flash 模型，支援最長三分鐘分段轉寫、繁體中文整理與時間戳。</li>
+<li><strong>AI 設定重新整理：</strong>分為「功能與模型」、「帳號與連線」、「錄音轉文字」與「提示詞」四頁，讓模型、帳號與轉寫服務的設定更容易找到。</li>
+<li><strong>功能名稱更清楚：</strong>統一課業問答、筆記編排、複習提要、自測問答卡、逐字稿校訂與對話自動命名等名稱，設定與各功能畫面使用一致用語。</li>
+<li><strong>轉寫可靠性改善：</strong>Gemini 遇到異常格式、阻擋、截斷或暫時性服務錯誤時會安全停止並保留既有逐字稿，暫時性錯誤可自動重試。</li>
+</ul>
+<p>使用 Gemini 需自行在設定中選擇 Vertex AI 或 AI Studio，並填入對應服務的 API key；原有 Apple 語音辨識仍是預設選項。</p>]]></description>
+      <enclosure url="https://github.com/lixuankuo/UniNote-releases/releases/download/v0.6.0/UniNote-0.6.0.zip" sparkle:edSignature="sgRK0Jc8UIj54CebjptcvsfMEVy9pN2P6gTmJumSxbNnWtsRyOv+Uh2TeAKARo5TKl52mHNNbodzN5WLr2f1CA==" length="6229694" type="application/octet-stream"/>
+    </item>
+<item>
       <title>UniNote 0.5.1</title>
       <pubDate>Sat, 10 Oct 2026 21:44:38 +0800</pubDate>
       <sparkle:version>21</sparkle:version>
