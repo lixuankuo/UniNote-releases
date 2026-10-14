@@ -4,6 +4,20 @@
     <title>UniNote 法學筆記</title>
     <link>https://github.com/lixuankuo/UniNote-releases</link>
     <item>
+      <title>UniNote 0.6.4</title>
+      <pubDate>Wed, 14 Oct 2026 08:25:05 +0800</pubDate>
+      <sparkle:version>26</sparkle:version>
+      <sparkle:shortVersionString>0.6.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h2>UniNote 0.6.4</h2>
+<ul>
+<li>修正 Gemini 語音轉文字時，單一段落輸出異常就導致整份錄音轉寫失敗的問題；現在會自動重試並拆分段落繼續處理。</li>
+<li>改善 Gemini 逐字稿時間戳記的準確度（macOS 26 以上會以系統語音辨識校正時間）。</li>
+<li>新增依範圍（課程、筆記）提問的學習對話。</li>
+</ul>]]></description>
+      <enclosure url="https://github.com/lixuankuo/UniNote-releases/releases/download/v0.6.4/UniNote-0.6.4.zip" sparkle:edSignature="fANDmaUWjiWOH3bwG4QLnf8iqv8r5T7n3ijrp2abE09jmSOsII10p4b8LhtQZ++i14EFiYRbg0qeMVZvPpgaAw==" length="7136929" type="application/octet-stream"/>
+    </item>
+<item>
       <title>UniNote 0.6.3</title>
       <pubDate>Mon, 12 Oct 2026 19:57:35 +0800</pubDate>
       <sparkle:version>25</sparkle:version>
