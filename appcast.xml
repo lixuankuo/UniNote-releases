@@ -4,6 +4,23 @@
     <title>UniNote 法學筆記</title>
     <link>https://github.com/lixuankuo/UniNote-releases</link>
     <item>
+      <title>UniNote 0.6.5</title>
+      <pubDate>Thu, 15 Oct 2026 00:48:20 +0800</pubDate>
+      <sparkle:version>27</sparkle:version>
+      <sparkle:shortVersionString>0.6.5</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h2>UniNote 0.6.5</h2>
+<ul>
+<li>學習對話新增來源分頁與比較檢視。</li>
+<li>新增提示詞設定與範圍學習 AI 的提示詞庫。</li>
+<li>範圍學習對話現在可為範圍內任一筆記草擬修改。</li>
+<li>回答中的來源改為連結樣式，更容易點選。</li>
+<li>修正旋轉過的 PDF 頁面上便利貼位置錯誤。</li>
+<li>修正來源清單顯示到非目前對話的來源。</li>
+</ul>]]></description>
+      <enclosure url="https://github.com/lixuankuo/UniNote-releases/releases/download/v0.6.5/UniNote-0.6.5.zip" sparkle:edSignature="achjNBTAuGcXBFW8L41mjKCyP9MhOPoj1fyBROZUutuPOcJOYgXsV0lHp8yMYf1iFimZkgr+n4c1RIOGv70KAQ==" length="7681934" type="application/octet-stream"/>
+    </item>
+<item>
       <title>UniNote 0.6.4</title>
       <pubDate>Wed, 14 Oct 2026 08:25:05 +0800</pubDate>
       <sparkle:version>26</sparkle:version>
