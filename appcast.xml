@@ -4,6 +4,21 @@
     <title>UniNote 法學筆記</title>
     <link>https://github.com/lixuankuo/UniNote-releases</link>
     <item>
+      <title>UniNote 0.6.6</title>
+      <pubDate>Sun, 18 Oct 2026 21:21:42 +0800</pubDate>
+      <sparkle:version>28</sparkle:version>
+      <sparkle:shortVersionString>0.6.6</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h2>UniNote 0.6.6</h2>
+<ul>
+<li>便利貼改用連線指向原文，高度隨文字行數自動調整。</li>
+<li>錄音頁新增直接播放與逐字稿回聽，重新產生逐字稿的操作集中在更多選單。</li>
+<li>Gemini 各項 AI 功能改由 Antigravity CLI 使用訂閱額度，並改善分段轉寫遇到阻擋時的處理。</li>
+<li>精簡帳號、連線與提示詞設定，強化 Gemini 工具使用限制與轉寫提示注入防護。</li>
+</ul>]]></description>
+      <enclosure url="https://github.com/lixuankuo/UniNote-releases/releases/download/v0.6.6/UniNote-0.6.6.zip" sparkle:edSignature="1/VkZSFrVtcsXkvdfPIlpSphOWhOquTSEZUB47/7UVbTop7mWozCfn7uGPTLsY6Lp8Ef0pe3ULU5oRxnNTKyDg==" length="7844804" type="application/octet-stream"/>
+    </item>
+<item>
       <title>UniNote 0.6.5</title>
       <pubDate>Thu, 15 Oct 2026 00:48:20 +0800</pubDate>
       <sparkle:version>27</sparkle:version>
