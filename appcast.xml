@@ -4,6 +4,19 @@
     <title>UniNote 法學筆記</title>
     <link>https://github.com/lixuankuo/UniNote-releases</link>
     <item>
+      <title>UniNote 0.6.7</title>
+      <pubDate>Tue, 20 Oct 2026 12:08:10 +0800</pubDate>
+      <sparkle:version>29</sparkle:version>
+      <sparkle:shortVersionString>0.6.7</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul>
+<li>AI 問答：引用處先寫出所引段落的內容，再附連結，不必點進去才知道在說什麼。</li>
+<li>點引用跳到講義時，原文會停在畫面正中間，不再貼在頂端。</li>
+<li>移除便利貼連結原文線末端的圓點。</li>
+</ul>]]></description>
+      <enclosure url="https://github.com/lixuankuo/UniNote-releases/releases/download/v0.6.7/UniNote-0.6.7.zip" sparkle:edSignature="fOEJuBBW4LNK6QTneboG2HuSIpuiCXJymUDbujjuph711vGpolFVusqtPZgR1jYvXPAzXrJRLSUqksGp6zx2Cw==" length="7845729" type="application/octet-stream"/>
+    </item>
+<item>
       <title>UniNote 0.6.6</title>
       <pubDate>Sun, 18 Oct 2026 21:21:42 +0800</pubDate>
       <sparkle:version>28</sparkle:version>
